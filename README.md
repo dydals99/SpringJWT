@@ -1,5 +1,5 @@
 ## SpringJWT 회원가입 + 로그인 구현 스터디 
-SpringJWT 회원가입 + 로그인 구현 스터디 
+
 
 - JDK Version : JDK 17 
 - 프레임워크 : spring boot 3.28 
