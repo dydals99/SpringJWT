@@ -17,7 +17,7 @@
 - security config 클래스 구현
 - DB연동, Entity 작성
 - 회원가입, 로그인 로직 구현
-- JWT 발급 및 검증
+- JWT 발급 및 검증  
 
 ### 학습 자료 출처  
 [개발자 유미님의 스프링 시큐리티 JWT ](https://www.youtube.com/playlist?list=PLJkjrxxiBSFCcOjy0AAVGNtIa08VLk1EJ)
