@@ -15,7 +15,7 @@
 - JWT란? 동작 원리와 개념 이해하기
 - 프로젝트 생성 + 의존성 추가
 - security config 클래스 구현
-- DB연동, Entity 작성
+- DB연동, Entity 작성 
 - 회원가입, 로그인 로직 구현
 - JWT 발급 및 검증  
 
