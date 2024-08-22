@@ -19,5 +19,9 @@
 - 회원가입, 로그인 로직 구현
 - JWT 발급 및 검증  
 
-### 학습 자료 출처  
+## 배운점 
+- JWT를 왜 사용하는가 이유에 대해 생각해볼 수 있었다.
+- JWT에 전반적인 흐름과 사용법에 대해 익힐 수 있었다.
+
+#### 학습 자료 출처  
 [개발자 유미님의 스프링 시큐리티 JWT ](https://www.youtube.com/playlist?list=PLJkjrxxiBSFCcOjy0AAVGNtIa08VLk1EJ)
