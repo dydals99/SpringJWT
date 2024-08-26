@@ -24,4 +24,5 @@
 - JWT에 전반적인 흐름과 사용법에 대해 익힐 수 있었다.
 
 #### 학습 자료 출처  
-[개발자 유미님의 스프링 시큐리티 JWT ](https://www.youtube.com/playlist?list=PLJkjrxxiBSFCcOjy0AAVGNtIa08VLk1EJ) 
+[개발자 유미님의 스프링 시큐리티 JWT ](https://www.youtube.com/playlist?list=PLJkjrxxiBSFCcOjy0AAVGNtIa08VLk1EJ)  
+ 
